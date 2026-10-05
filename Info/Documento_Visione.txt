@@ -1,0 +1,16 @@
+LendABook - Visione
+
+Applicazione: LendABook[1]
+
+
+Tipo di applicazione: l’applicazione mira ad essere in parte eCommerce di libri digitali e in parte social network di lettori. L’obiettivo è proporre una “libreria digitale” che incoraggi le persone ad incontrarsi e permetta di mettere in pratica lo scambio virtuale di libri. In particolare, il negozio virtuale immaginato per quest’app dovrà utilizzare un formato eBook che consenta di cedere temporaneamente i diritti di lettura ad un’altra persona. Per la durata del prestito, il libro non sarà più disponibile al suo proprietario, ma solo a colui o colei che lo riceve. L’idea del prestito può essere allargata ad una sorta di book-crossing digitale in cui i libri possono essere messi a disposizione di chiunque li desideri, pensando a un meccanismo di rewarding che incoraggi la circolazione dei libri ma non penalizzi gli utenti meno abbienti.
+
+
+Tipologia di utenti: Gli utenti finali dell’applicativo sono senza dubbio i lettori nonché clienti dell’eCommerce di libri. Si dovrà però prevedere una sezione dell’applicazione che permetta attività di back office ai proprietari del negozio digitale. Volendo prevedere anche una sezione di self-publishing.
+
+
+Ambito benefit e ricadute: il focus dell’applicazione è sul tema “Tessitura di comunità”. La lettura, almeno per chi vi si appassiona, crea aggregazione e circolazione di idee: possiamo immaginare gli utenti dell’applicazione che stringono amicizie perché sono interessati ad un libro e finiscono col creare piccole comunità online di appassionati di un’autrice o autore, o di un argomento, o di un genere. Il bookcrossing digitale consentirebbe l’accesso ai libri - e a queste comunità - anche a chi non può permettersi di acquistare libri, digitali o cartacei che siano.
+
+Oltre al tema principale della tessitura di comunità, pensiamo sia importante promuovere una cultura della parsimonia e del riuso, anche laddove si parla di risorse digitali.
+
+[1] Al momento attuale (8/10/24), una forma limitata di prestito (una volta sola, per al massimo 14 giorni) è disponibile per i libri Kindle acquistati su Amazon.com. Tale funzionalità non risulta attiva su Amazon.it
